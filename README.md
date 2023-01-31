@@ -6,6 +6,7 @@
 <h2> Tecnologias / Bibliotecas: </h2>
 
 + React JS
++ Typescript
 + Radix-ui
 + Tailwindcss
 + Phosphor-react
